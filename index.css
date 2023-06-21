@@ -1,0 +1,97 @@
+.theentirething{
+    width: 550px;
+    height: 729px;
+    background: #F4F4F4;
+    margin: auto;
+}
+
+.upperbackground{
+    padding-top: 40px;
+    width: 550px;
+    height: 285px;
+    background: #6943FF;
+
+}
+.texts{
+    margin: auto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 38px;
+    
+    text-align: center;
+    letter-spacing: -0.03em;
+
+    color: #FFFFFF;
+
+}
+.number {
+    padding: 10px;
+    font-weight: 700;
+    font-size: 88px;
+    margin-top: 30px;
+    width: 80px; /* Adjust the width and height to create a square shape */
+    height: 80px;
+    border: 2px solid #B295FF;
+    border-radius: 10px;
+    display: flex; /* Use flexbox to center the number vertically */
+    align-items: center; /* Center the number vertically */
+    justify-content: center; /* Center the number horizontally */
+    background-color: transparent;
+
+}
+
+
+button{
+    background: #FFFFFF;
+    width: 117px;
+    height: 42px;
+    align-items: center; /* Center the number vertically */
+    justify-content: center;
+    background: #FFFFFF;
+
+    border-radius: 5px;
+    border: 0px;
+    display: flex; /* Use flexbox to center the number vertically */
+    
+    margin: auto;
+    margin-top: 40px;
+    font-weight: 500;
+    font-size: 16px;
+    
+}
+
+.elements{
+    width: 500px;
+    height: 108px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    text-align: center;
+    color: #5A537B;
+
+}
+.paragraphs{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+}
+.flexbox{
+    margin: 25px;
+    display: flex; /* Use flexbox to center the number vertically */
+    align-items: center; /* Center the number vertically */
+    justify-content: center; /* Center the number horizontally */
+    flex-direction: column;
+    gap: 20px;
+}
+.ppp{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+
+
+    text-align: center;
+
+    color: #353535;
+
+}
